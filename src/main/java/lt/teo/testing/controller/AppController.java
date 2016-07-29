@@ -21,7 +21,7 @@ import lt.teo.testing.model.Feed;
 import lt.teo.testing.model.Item;
 import lt.teo.testing.service.FeedService;
 import lt.teo.testing.service.ItemService;
-
+// test for branch
 @Controller
 @RequestMapping("/")
 public class AppController {
